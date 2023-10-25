@@ -1,0 +1,24 @@
+[Header],,,,,,
+Investigator Name,Steven Gruber,,,,,
+Project Name,Demo_EPIC-8v2-0_A1,,,,,
+Experiment Name,Demo_EPIC-8v2-0_A1,,,,,
+Date,11/7/2022,,,,,
+,,,,,,
+[Data],,,,,,
+Sample_Name,Sample_Well,Sample_Plate,Sample_Group,Pool_ID,Sentrix_ID,Sentrix_Position
+HeLa,,,Cell Line,,206891110001,R01C01
+Jurkat,,,Cell Line,,206891110001,R03C01
+Raji,,,Cell Line,,206891110001,R07C01
+NA12873,,,Coriell,,206891110001,R08C01
+NA12873_2_R,,,Coriell,,206891110002,R02C01
+Raji_2_R,,,Cell Line,,206891110002,R04C01
+HeLa_2_R,,,Cell Line,,206891110002,R06C01
+Jurkat_2_R,,,Cell Line,,206891110002,R08C01
+HeLa_3_R,,,Cell Line,,206891110004,R01C01
+Jurkat_3_R,,,Cell Line,,206891110004,R03C01
+Raji_3_R,,,Cell Line,,206891110004,R07C01
+NA12873_3_R,,,Coriell,,206891110004,R08C01
+NA12873_4_R,,,Coriell,,206891110005,R02C01
+Raji_4_R,,,Cell Line,,206891110005,R04C01
+HeLa_4_R,,,Cell Line,,206891110005,R06C01
+Jurkat_4_R,,,Cell Line,,206891110005,R08C01
